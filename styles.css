@@ -1,18 +1,18 @@
-nav {
+h6 {
     background-color: lightgray;
 }
-main {
+p {
   text-align: center;
   border: 2px solid black;
   margin: 20px;
   font-family: verdana;
 }
-header {
+h1 {
   text-align: center;
   border: 2px solid black;
   font-family: verdana;
 }
-separator {
+h3 {
   background-color: powderblue;
   border: 2px solid black;
   text-align: center;
